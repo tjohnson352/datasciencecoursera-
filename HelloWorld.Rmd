@@ -1,6 +1,6 @@
 ---
 title: "HelloWorld"
-author: "Theodore Johnson"
+author: "Theo Johnson"
 date: "2024-07-24"
 output: md_document
 ---
